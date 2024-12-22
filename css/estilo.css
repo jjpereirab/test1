@@ -4,3 +4,11 @@ body
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
 }
+
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    border: 1px solid coral;
+    margin: auto;
+}
