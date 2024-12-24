@@ -13,3 +13,18 @@ body
     margin: auto;
     color: red;
 }
+
+
+/* E S T I L O   D E L   H E A D E R */
+
+#minimal-header {
+    background-color: #4f8d49; /* Fondo claro y limpio */
+    color: #301183; /* Texto en color gris oscuro para buena legibilidad */
+    text-align: center; /* Centrar contenido */
+    padding: 20px; /* Espaciado interno */
+    font-family: Arial, sans-serif; /* Fuente limpia y moderna */
+    font-size: 14px; /* Tamaño de fuente pequeño pero legible */
+    border-top: 1px solid #ddd; /* Línea sutil en la parte superior */
+}
+
+/* --------------------------------- */
