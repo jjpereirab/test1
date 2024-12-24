@@ -20,11 +20,29 @@ body
 #minimal-header {
     background-color: #4f8d49; /* Fondo claro y limpio */
     color: #301183; /* Texto en color gris oscuro para buena legibilidad */
+}
+
+/* E S T I L O   D E L   F O O T E R */
+
+.minimal-footer {
+    background-color: #e7a7a7; /* Fondo claro y limpio */
+    color: #333; /* Texto en color gris oscuro para buena legibilidad */
     text-align: center; /* Centrar contenido */
     padding: 20px; /* Espaciado interno */
     font-family: Arial, sans-serif; /* Fuente limpia y moderna */
     font-size: 14px; /* Tamaño de fuente pequeño pero legible */
     border-top: 1px solid #ddd; /* Línea sutil en la parte superior */
+}
+
+.minimal-footer a {
+    color: #007acc; /* Azul sutil para los enlaces */
+    text-decoration: none; /* Sin subrayado */
+    font-weight: bold; /* Enlace destacado */
+}
+
+.minimal-footer a:hover {
+    text-decoration: underline; /* Subrayado al pasar el cursor */
+    color: #005b99; /* Azul más oscuro al hover */
 }
 
 /* --------------------------------- */
