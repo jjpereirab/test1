@@ -6,7 +6,7 @@ y una cuarta y ya por ahora
 otro cambio pequeño como quinta linea 
 
 -----------
-Primeros cambios hechos por jptribute
+Segundos cambios hechos por jptribute, que ahora no es colaborador del proyecto
 
 -----------
 cambios para PR (PULL REQUEST) [ya está en mayuscula]
