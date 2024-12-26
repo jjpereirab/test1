@@ -9,4 +9,4 @@ otro cambio pequeño como quinta linea
 Primeros cambios hechos por jptribute
 
 -----------
-cambios para PR (pull request)
+cambios para PR (PULL REQUEST) [ya está en mayuscula]
