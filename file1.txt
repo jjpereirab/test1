@@ -10,3 +10,6 @@ Primeros cambios hechos por jptribute
 
 -----------
 cambios para PR (PULL REQUEST) [ya está en mayuscula]
+
+...........
+Esto es despues del PR request de jptribute, pero antes de hacer el pull que contiene los cambios de ese PR
